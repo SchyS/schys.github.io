@@ -1,0 +1,35 @@
+.body-class{
+    background-color: whitesmoke;
+}
+.header-class{
+    background-color: white;
+    color: whitesmoke;
+}
+.nav-class{
+    background-color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.title-class{
+    color: blueviolet;
+}
+.section-title-class{
+    color: green;
+}
+.text-class{
+    color: brown;
+}
+.image-class{
+    border: 5px solid green; 
+    border-radius: 10px;
+}
+.form-class{
+    color:darkred;
+}
+.button-class{
+    color: darkred;
+}
+.footer-class{
+    background-color: white;
+    color: violet;
+}
